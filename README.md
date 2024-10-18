@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prakhar Singh</h1>
 <h3 align="center">A passionate penetration testing from India</h3>
-<img align="right" alt="Coding" width="400" src="https://github.com/madhavagarwal3012/madhavagarwal3012">
+<img align="right" alt="Coding" width="400" src="![image](https://github.com/user-attachments/assets/d1a1ad54-6451-4af9-8e20-68c70903246f)
+">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=singh-prakhar01&label=Profile%20views&color=0e75b6&style=flat" alt="singh-prakhar01" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
